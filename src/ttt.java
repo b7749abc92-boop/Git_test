@@ -1,7 +1,6 @@
 public class ttt {
     public static void main(String[] args) {
 
-
-        System.out.println("Git 테스트2");
-        ss
+        // 머지 테스트 중 입니다.
+    }
 }
