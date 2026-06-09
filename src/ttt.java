@@ -3,5 +3,5 @@ public class ttt {
 
 
         System.out.println("Git 테스트2");
-        ss
+
 }
